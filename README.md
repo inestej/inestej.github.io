@@ -1,5 +1,7 @@
 # [inestej Blog](https://inestej.github.io/)
 
-Je suis Maître-Assistante à l’école supérieure de la statistique et de l’analyse de l’information (ESSAI) de l’Université de Carthage (UCAR) et membre du laboratoire de bio-informatique, bio-mathématique et bio-statistique à l’Institut Pasteur de Tunis (IPT), de l’Université Tunis El Manar (UMT). 
+I am a mathematician specializing in symbolic computation, holding a Ph.D. from Pierre and Marie Curie University (Sorbonne University, FRance). My academic career is distinguished by a passion for teaching and mentorship. I have taught at institutions in France and, since 2002, as a faculty member at the University of Carthage, where I teach calculus, optimization and operations research.
 
-Vous trouverez dans ce Blog des liens vers mes cours et les feuilles de calculs (SageMath, Python ou R). Vous pouvez également consulter mes publications scientifiques et les thèmes des encadrements que j'effectue à l'ESSAI. 
+My research is conducted with the BIMS laboratory (LR16IPT09) at the Institut Pasteur de Tunis, focusing on polynomial dynamic systems in systems biology, bioinformatics and mathematical biology. I am particularly interested in applying computational methods using Python, R, and SAGEmath to model complex biomedical challenges in infectious diseases, such as rabies, leishmaniasis, and cancer.
+
+With extensive experience in student supervision, I have guided over sixty students through their Graduation Project for the Engineering Degree (equivalent to a Master of Engineering thesis). My expertise has expanded to include neural networks, deep learning, and LLMs—domains in which I publish and actively integrate into my work on extracting and leveraging medical data.
